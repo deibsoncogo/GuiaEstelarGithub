@@ -62,3 +62,8 @@ Vimos que para acessar um repositório já criado temos que ir na página inicia
 
 ## Aula 09 - Copiando ideia de readme do pessoal
 O readme também aceita HTML e para criar o nosso podemos nos basear em alguns existente
+
+## Aula 10 - Colaborando em outros repositórios
+Podemos editar a qualquer momento repositórios públicos de outros usuários
+
+Onde quando clicamos em editar criamos um `fork` onde ele será uma copia do repositório original que ficaram salvo na nossa conta, depois que eu realizar todas as alterações e salva um `pull resquest` será criado avisando o dono do repositório original que alguém sugeriu algum tipo de mudança
