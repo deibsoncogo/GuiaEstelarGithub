@@ -35,3 +35,6 @@ Existe desde a versão gratuita e paga
 
 ## Aula 04 - Configurando perfil público
 No perfil público podemos adicionar uma foto, email, descrição, local que mora, se está a busca de emprego ou até relacionar a empresa que trabalha
+
+## Aula 05 - Conhecendo a página do usuário
+Vimos que na página temos os atalhos para ir na página inicial, pull request que é o envio dos arquivo para a linha principal depois de uma confirmação, issues que serve para solicitar a correção de um bug, marketplace e explores, mais tudo isso iremos ver futuramente
