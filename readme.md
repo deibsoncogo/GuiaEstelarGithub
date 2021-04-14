@@ -49,3 +49,10 @@ O primeiro repositório será um readme para o nosso perfil onde para isso temos
   2. Deixar ele como público
   3. Selecionar a opção `add a readme file`
   4. E por último clicar em `create repository`
+
+## Aula 07 - Conhecendo a página do repositório
+Agora aprendemos sobre oque existe dentro de uma página de repositório
+
+Onde temos uma guia principal como as opções de code, issues, pull requests, actions, projects, wiki, security, insights e settings, tudo isso é baseado no repositório aberto
+
+Nela também conseguimos ver uma observação e seus commits criado e seus detalhes
