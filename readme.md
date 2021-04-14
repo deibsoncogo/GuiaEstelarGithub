@@ -32,3 +32,6 @@ Iremos agora revisar os comandos que mais iremos utilizar
 ## Aula 03 - Criando uma conta
 Primeiro de tudo temos que criar uma conta informando o nome, email e uma senha
 Existe desde a versão gratuita e paga
+
+## Aula 04 - Configurando perfil público
+No perfil público podemos adicionar uma foto, email, descrição, local que mora, se está a busca de emprego ou até relacionar a empresa que trabalha
