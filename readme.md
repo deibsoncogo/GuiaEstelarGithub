@@ -59,3 +59,6 @@ Nela também conseguimos ver uma observação e seus commits criado e seus detal
 
 ## Aula 08 - Atualizando o repositório
 Vimos que para acessar um repositório já criado temos que ir na página inicial e depois buscar ele no lado esquerdo da tela, para atualizar um arquivo no Github basta clicarmos em editar e para salvar temos que ir no final da pagina onde teremos que adicionar um título falando oque fizemos e aqui da para adicionar uma descrição do que foi feito
+
+## Aula 09 - Copiando ideia de readme do pessoal
+O readme também aceita HTML e para criar o nosso podemos nos basear em alguns existente
