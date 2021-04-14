@@ -26,3 +26,9 @@ Iremos agora revisar os comandos que mais iremos utilizar
   * Receber os arquivos do repositório online: `git pull`
 
 `Vim` é o editor de texto padrão do Git e para fechar devemos aperta `:wq`
+
+# Modulo 02 - Primeiros passos
+
+## Aula 03 - Criando uma conta
+Primeiro de tudo temos que criar uma conta informando o nome, email e uma senha
+Existe desde a versão gratuita e paga
