@@ -56,3 +56,6 @@ Agora aprendemos sobre oque existe dentro de uma página de repositório
 Onde temos uma guia principal como as opções de code, issues, pull requests, actions, projects, wiki, security, insights e settings, tudo isso é baseado no repositório aberto
 
 Nela também conseguimos ver uma observação e seus commits criado e seus detalhes
+
+## Aula 08 - Atualizando o repositório
+Vimos que para acessar um repositório já criado temos que ir na página inicial e depois buscar ele no lado esquerdo da tela, para atualizar um arquivo no Github basta clicarmos em editar e para salvar temos que ir no final da pagina onde teremos que adicionar um título falando oque fizemos e aqui da para adicionar uma descrição do que foi feito
