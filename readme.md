@@ -38,3 +38,14 @@ No perfil público podemos adicionar uma foto, email, descrição, local que mor
 
 ## Aula 05 - Conhecendo a página do usuário
 Vimos que na página temos os atalhos para ir na página inicial, pull request que é o envio dos arquivo para a linha principal depois de uma confirmação, issues que serve para solicitar a correção de um bug, marketplace e explores, mais tudo isso iremos ver futuramente
+
+# Modulo 03 - Criando repositórios
+
+## Aula 06 - Criando repositório online
+Temos que ir na página inicial e clicar em `new`
+
+O primeiro repositório será um readme para o nosso perfil onde para isso temos que
+  1. Colocar nosso login como nome do repositório
+  2. Deixar ele como público
+  3. Selecionar a opção `add a readme file`
+  4. E por último clicar em `create repository`
