@@ -98,3 +98,6 @@ Para criar o link basta utilizamos o endereço SSH do nosso repositório
 ```bash
 git remote add origin git@github.com:login/NomeRepositório.git
 ```
+
+## Aula 15 - Modificando arquivos local e enviando para repositório remoto
+Na aula foi realizado algumas alterações no arquivo enviado para mostrar que alguns comandos são executados somente uma vez como adicionar um link remoto e que o `git push` vai enviar as alterações para o link preferencial
