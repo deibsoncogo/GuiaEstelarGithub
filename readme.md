@@ -70,3 +70,18 @@ Onde quando clicamos em editar criamos um `fork` onde ele será uma copia do rep
 
 ## Aula 11 - Conhecendo o restante da página pessoal
 Conseguimos personalizar quais repositório deve aparecer como destaque, também temos uma tabela que mostra quantos commits foram realizados por dia de repositórios aberto
+
+## Aula 12 - Criando chave SSH
+Esta chave é um tipo de conexão onde com ela o Github sabe que a maquina que está tentando se conectar a ele é um equipamento autorizado
+
+Para criar a chave precisamos digitar este comando no `Bash do Git`, ele vai realizar algumas perguntas mais basta darmos um enter e não preencher nada
+```bash
+ssh-keygen -t rsa -b 4096 -C "emailDaContaDoGithub@email.com.br"
+```
+
+Para acessar a chave devemos utilizar este comando
+```bash
+cat ~/.ssh/id_rsa.pub
+```
+
+Ai depois na nossa conta devemos acessar settings, SSH and GPG keys, New SSH key, agora informamos um titulo como o nome do equipamento e embaixo a chave
