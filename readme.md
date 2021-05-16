@@ -67,3 +67,6 @@ O readme também aceita HTML e para criar o nosso podemos nos basear em alguns e
 Podemos editar a qualquer momento repositórios públicos de outros usuários
 
 Onde quando clicamos em editar criamos um `fork` onde ele será uma copia do repositório original que ficaram salvo na nossa conta, depois que eu realizar todas as alterações e salva um `pull resquest` será criado avisando o dono do repositório original que alguém sugeriu algum tipo de mudança
+
+## Aula 11 - Conhecendo o restante da página pessoal
+Conseguimos personalizar quais repositório deve aparecer como destaque, também temos uma tabela que mostra quantos commits foram realizados por dia de repositórios aberto
