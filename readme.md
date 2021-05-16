@@ -92,3 +92,9 @@ Agora temos que vincular nosso equipamento com o SSH criado, para isso temos est
 eval `ssh-agent -s`
 ssh-add ~/.ssh/id_rsa
 ```
+
+## Aula 14 - Linkando um repositório remoto com local
+Para criar o link basta utilizamos o endereço SSH do nosso repositório
+```bash
+git remote add origin git@github.com:login/NomeRepositório.git
+```
