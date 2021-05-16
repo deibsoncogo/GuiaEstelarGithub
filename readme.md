@@ -85,3 +85,10 @@ cat ~/.ssh/id_rsa.pub
 ```
 
 Ai depois na nossa conta devemos acessar settings, SSH and GPG keys, New SSH key, agora informamos um titulo como o nome do equipamento e embaixo a chave
+
+## Aula 13 - Adicionando chaves ao gerenciador local SSH Agent
+Agora temos que vincular nosso equipamento com o SSH criado, para isso temos este [site](https://docs.github.com/en/github/authenticating-to-github/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent) que mostra os comandos necessário para cada tipo de sistema operacional
+```bash
+eval `ssh-agent -s`
+ssh-add ~/.ssh/id_rsa
+```
