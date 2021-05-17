@@ -107,3 +107,6 @@ Para fazer o download de um arquivo devemos usar outro comando pois o `push` env
 ```bash
 git pull
 ```
+
+## Aula 17 - Entendendo o histórico remoto
+No site temos um opção de histório onde ele mostra todos os commits e seu id, ele é completo e muito mais fácil de usar do que usar um `git log` no terminal
