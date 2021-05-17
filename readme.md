@@ -120,3 +120,6 @@ Um conflito de merge é quando o arquivo local está diferente do online, assim 
 
 ## Aula 19 - Pesquisando no Github
 Conseguimos realizar pesquisas para assim descobrir novos usuários ou modelo que algum repositório que estamos precisando, existe também comandos para deixar ela mais eficiente
+
+## Aula 20 - Estrelas e git clone
+Adicionar uma estrela é tornar um repositório como favorito assim facilitando a busca dele futuramente, ao clicar em `fork` iremos clonar o repositório na nossa área online
