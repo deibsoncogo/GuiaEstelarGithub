@@ -115,3 +115,8 @@ No site temos um opção de histório onde ele mostra todos os commits e seu id,
 
 ## Aula 18 - Corrigindo conflitos de merge
 Um conflito de merge é quando o arquivo local está diferente do online, assim teremos que analisar qual alteração vamos querer manter, depois de decidir deveremos criar um novo commit e executar o comando anterior que identificou o merge
+
+# Modulo 05 - Outras features
+
+## Aula 19 - Pesquisando no Github
+Conseguimos realizar pesquisas para assim descobrir novos usuários ou modelo que algum repositório que estamos precisando, existe também comandos para deixar ela mais eficiente
