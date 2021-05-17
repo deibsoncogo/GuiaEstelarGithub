@@ -110,3 +110,6 @@ git pull
 
 ## Aula 17 - Entendendo o histórico remoto
 No site temos um opção de histório onde ele mostra todos os commits e seu id, ele é completo e muito mais fácil de usar do que usar um `git log` no terminal
+
+## Aula 18 - Corrigindo conflitos de merge
+Um conflito de merge é quando o arquivo local está diferente do online, assim teremos que analisar qual alteração vamos querer manter, depois de decidir deveremos criar um novo commit e executar o comando anterior que identificou o merge
