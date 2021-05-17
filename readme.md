@@ -123,3 +123,6 @@ Conseguimos realizar pesquisas para assim descobrir novos usuários ou modelo qu
 
 ## Aula 20 - Estrelas e git clone
 Adicionar uma estrela é tornar um repositório como favorito assim facilitando a busca dele futuramente, ao clicar em `fork` iremos clonar o repositório na nossa área online
+
+## Aula 21 - Despedida
+Durante o curso aprendemos os itens mais importantes que o Github possui, agora aos poucos podemos ir fuçando para aprender tudo que ele fornece
