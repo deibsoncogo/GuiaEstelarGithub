@@ -101,3 +101,9 @@ git remote add origin git@github.com:login/NomeRepositório.git
 
 ## Aula 15 - Modificando arquivos local e enviando para repositório remoto
 Na aula foi realizado algumas alterações no arquivo enviado para mostrar que alguns comandos são executados somente uma vez como adicionar um link remoto e que o `git push` vai enviar as alterações para o link preferencial
+
+## Aula 16 - Modificando arquivos remotos e puxando para repositório local
+Para fazer o download de um arquivo devemos usar outro comando pois o `push` envia alterações
+```bash
+git pull
+```
