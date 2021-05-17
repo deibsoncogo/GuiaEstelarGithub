@@ -71,6 +71,8 @@ Onde quando clicamos em editar criamos um `fork` onde ele será uma copia do rep
 ## Aula 11 - Conhecendo o restante da página pessoal
 Conseguimos personalizar quais repositório deve aparecer como destaque, também temos uma tabela que mostra quantos commits foram realizados por dia de repositórios aberto
 
+# Modulo 04 - Trabalhando com repositórios
+
 ## Aula 12 - Criando chave SSH
 Esta chave é um tipo de conexão onde com ela o Github sabe que a maquina que está tentando se conectar a ele é um equipamento autorizado
 
